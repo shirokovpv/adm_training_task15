@@ -86,7 +86,7 @@ systemctl restart httpd</code></p>
 <img width="974" height="376" alt="image" src="https://github.com/user-attachments/assets/0327a4c3-e727-49af-8068-ff44dc798d0f" />
 <p>&nbsp;</p>
 <ol start="2">
-<li>Установка и настройка агента на виртуальной машине client</li>
+<li>Установка и настройка агента на виртуальной машине <strong>client</strong></li>
 </ol>
 <p>Подключаемся по ssh к клиенту под root-пользователем</p>
 <p><code>ssh root@10.8.2.25</code></a></p>
