@@ -14,7 +14,6 @@
 <li>prometheus - grafana.</li>
 </ul>
 <h3 class="western"><a name="_heading=h.df570rpzx1qg"></a><span style="font-family: Roboto, serif;"><span style="font-size: small;">Используемые ОС</span></span></h3>
-<p>Хостовая машина Windows 10</p>
 <p>Две виртуальные машины:</p>
 <p><strong>server</strong> (IP 10.8.2.3) &ndash; RED OS 8 Server</p>
 <p><strong>client</strong>&nbsp; (IP 10.8.2.25) &ndash; RED OS 8 Desktop</p>
